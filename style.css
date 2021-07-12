@@ -1,0 +1,29 @@
+h4 {
+    font-size: 30px;
+}
+
+p {
+   background-color: silver;
+   text-align: justify; 
+}
+
+.p_satu {
+    background-color: orange;
+}
+
+.p_dua {
+    color: white;
+    background-color: blue;
+}
+
+.p_tiga {
+    font-family: monospace;
+    font-size: 20px;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.p_empat {
+    font-weight: bold;
+    font-size: 20px;
+}
